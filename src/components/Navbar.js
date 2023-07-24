@@ -1,5 +1,5 @@
 import React from 'react'
-import airbnb from '../images/Airbnb.jpg'
+import airbnb from '../../public/images/Airbnb.jgp'
 import '../style.css'
 
 const Navbar = () => {
