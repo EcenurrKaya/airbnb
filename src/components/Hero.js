@@ -1,6 +1,6 @@
 import React from 'react'
 import '../style.css'
-import mockup from '../images/mockup.jpg'
+import mockup from '../../public/images/mockup.jpg'
 
 export default function Hero(){
     return(
